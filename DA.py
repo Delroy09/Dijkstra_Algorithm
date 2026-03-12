@@ -82,7 +82,7 @@ def generate_graph_visualization(graph, path=None):
 def main():
     st.title("Shortest Path Finder using Dijkstra's Algorithm")
 
-    st.markdown("<div style='text-align: right; font-size: 12px;'>Delroy Pires - 2205807</div>", unsafe_allow_html=True)
+    st.markdown("<div style='text-align: right; font-size: 12px;'>Delroy Pires | PA-3</div>", unsafe_allow_html=True)
 
     graph = load_graph_from_excel("graph.xlsx")
     nodes = list(graph.keys())
