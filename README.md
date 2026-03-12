@@ -1,4 +1,4 @@
-# Dijkstra Shortest Path Visualizer by Delroy Pires | SEM 2
+# Dijkstra Shortest Path Visualizer by Delroy Pires
 
 This project implements Dijkstra's Algorithm to find the shortest path in a weighted graph.
 
