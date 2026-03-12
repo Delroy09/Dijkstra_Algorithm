@@ -2,13 +2,25 @@
 
 This project implements Dijkstra's Algorithm to find the shortest path in a weighted graph.
 
-Dataset Required: Excel file containing source, destination, and weight.
+**Dataset Required:** Excel file containing [source, destination, and weight].
 
-Technologies Used:
+## Technologies Used
 
 - Python
 - Streamlit
 - NetworkX
 - Pandas
 
-Thanks
+## Run Locally
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run using this command:
+
+```bash
+streamlit run DA.py
+```
